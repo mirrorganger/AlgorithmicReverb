@@ -1,0 +1,6 @@
+[submodule "deps/EuterpeSnd"]
+	path = deps/EuterpeSnd
+	url = https://github.com/mirrorganger/EuterpeSnd.git
+[submodule "deps/JUCE"]
+	path = deps/JUCE
+	url = https://github.com/juce-framework/JUCE.git
