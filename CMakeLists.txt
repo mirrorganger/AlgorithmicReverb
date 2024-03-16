@@ -7,3 +7,4 @@ add_subdirectory(deps/EuterpeSnd)
 add_subdirectory(deps/JUCE)
 
 add_subdirectory(SchroederReverb)
+add_subdirectory(DattoroReverb)
